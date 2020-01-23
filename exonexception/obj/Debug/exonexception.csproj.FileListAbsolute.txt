@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\exonexception\bin\Debug\exonexception.exe.config
+E:\devika\C#\HandsOn\exonexception\bin\Debug\exonexception.exe
+E:\devika\C#\HandsOn\exonexception\bin\Debug\exonexception.pdb
+E:\devika\C#\HandsOn\exonexception\obj\Debug\exonexception.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\exonexception\obj\Debug\exonexception.exe
+E:\devika\C#\HandsOn\exonexception\obj\Debug\exonexception.pdb
